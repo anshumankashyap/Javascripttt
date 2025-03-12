@@ -28,7 +28,6 @@ let myObj {
 
 const myFuncction = function() {
     console.log(Hello World);
-    
 }//Function
 
 // Javascript is a dynamic type language
