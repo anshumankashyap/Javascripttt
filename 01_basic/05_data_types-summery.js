@@ -13,9 +13,22 @@ const anotherId = Symbol('12345')
 
 console.log(id == anotherId);
 
+const bigNumber = 54565486466853265154631n //use n to declare the nummber as BigInt data type
+
 
 // Reference (Non Premitive)
 // Array, Objects, Functions
 
-// Javascript is a dynamic type language
+const heros = ["shaktiman", "Super V", "Nagraj"]; // Arrays
 
+let myObj {
+    name = "Shaktiman",
+    age = 18
+} // Objest
+
+const myFuncction = function() {
+    console.log(Hello World);
+    
+}//Function
+
+// Javascript is a dynamic type language
